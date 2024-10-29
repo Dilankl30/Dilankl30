@@ -10,7 +10,7 @@ package ec.edu.spoch.mavenproject1;
 public class Mavenproject1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("HJONIER COTOYA!");
         /*COMO DECLARAR VARIABLE Y TIPOS DE NUMEROS
         var nom = "Dila Lucero";
         var edad = 19;
